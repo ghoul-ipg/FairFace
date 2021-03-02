@@ -5,7 +5,7 @@ ADD sources.list /etc/apt/sources.list
 
 构建镜像并运行
 ```
-docker build -t fairdace .
+docker build -t fairface .
 docker run -itd -p 5000:5000 fairface
 ```
 
